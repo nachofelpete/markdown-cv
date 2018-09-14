@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: J. Ignacio Felpete's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# J. Ignacio Alonso Felpete
+Biólogo, Investigador, Instituto de Recursos Naturales y Ordenación del Territorio (Universidad de Oviedo).
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
